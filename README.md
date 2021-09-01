@@ -1,12 +1,14 @@
 # website-screenshotter-script-puppeteer
 
+First install all dependencies from the terminal with 'npm i'
+
 Script that grabs a screenshot of a website url
 
 run the script in your terminal using the following:
-'node screenshot DOMAIN_NAME'
+'node screenshot rubenverster.com'
 Example:
 'node screenshot google.com'
 
-The http:// is already prefixed in the script, so only the domain name is required in the command
+The 'https:/'/ is already prefixed in the script when searching for a webite, so only the domain name is required in the screenshot command
 
-The script will then save a screenshot of the website url you entered in the 'screenshots' directory
+A screenshot of the website will be saved in the 'screenshots' directory
