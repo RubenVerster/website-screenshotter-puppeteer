@@ -14,4 +14,5 @@ The 'https:/'/ is already prefixed in the script when searching for a webite, so
 A screenshot of the website will be saved in the 'screenshots' directory
 
 PS
+
 I wrote this while drunk && high at 01:00 in the morning XP
